@@ -10,7 +10,7 @@ body{
     font-family: "Inter", sans-serif;
   font-optical-sizing: auto;
 }
-@media (max-width: 750px){
+@media (max-width: 800px){
     .container{
         width: 100vw;
         height: 100vh;
